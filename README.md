@@ -7,7 +7,7 @@
 
 <img width="50%" src="https://user-images.githubusercontent.com/16822641/109343528-dbac2000-78b0-11eb-842a-1def1bdf8e72.png"/>
 
-#### <b>1. Tranfer Learning (ResNet18)</b>
+#### <b>1. Tranfer Learning with ResNet-18</b>
 
 * Validation accuracy: <b>97.2186%</b>
 * [Google Colab source code](Face_Gender_Classification_using_Transfer_Learning_with_ResNet18.ipynb)
