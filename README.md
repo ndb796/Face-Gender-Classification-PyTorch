@@ -10,5 +10,5 @@
 #### <b>1. Tranfer Learning (ResNet18)</b>
 
 * Validation accuracy: 97.2186%
-* [Google Colab Source Code](Face_Gender_Classification_using_Transfer_Learning_with_ResNet18.ipynb)
+* [Google Colab source code](Face_Gender_Classification_using_Transfer_Learning_with_ResNet18.ipynb)
 * [Trained model file download](https://postechackr-my.sharepoint.com/:u:/g/personal/dongbinna_postech_ac_kr/EVd9bFWzqztMrXRDdNnCHQkBsHaM4n5_1q1fue77vtQVtw)
