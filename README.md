@@ -12,3 +12,7 @@
 * Validation accuracy: <b>97.2186%</b>
 * [Google Colab source code](Face_Gender_Classification_using_Transfer_Learning_with_ResNet18.ipynb)
 * [Trained model file download](https://postechackr-my.sharepoint.com/:u:/g/personal/dongbinna_postech_ac_kr/EVd9bFWzqztMrXRDdNnCHQkBsHaM4n5_1q1fue77vtQVtw)
+
+#### <b>How to test?</b>
+
+* [Google Colab source code](/Face_Gender_Classification_Test.ipynb)
